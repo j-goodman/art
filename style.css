@@ -50,13 +50,14 @@ h2 {
 }
 
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   	.image-box {
         flex-direction: column;
     }
 
     img {
         height: auto;
+        max-width: 100%;
     }
 
     h2, h3 {
