@@ -64,11 +64,13 @@ h2 {
     }
 
     .description {
-        margin: 8px;
+        border-left: none;
+        border-top: 3px solid #45f;
+        font-size: 2em;
+        margin: 16px;
         padding-left: none;
         padding-top: 8px;
-        border-top: 3px solid #45f;
-        border-left: none;
+        max-width: 400px;
     }
 
     .date {
