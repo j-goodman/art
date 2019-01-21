@@ -49,8 +49,7 @@ h2 {
     margin-bottom: -24px;
 }
 
-
-@media (max-width: 800px) {
+@media (max-aspect-ratio: 1/1) {
   	.image-box {
         flex-direction: column;
     }
