@@ -33,7 +33,7 @@ a {
 
 img {
     cursor: pointer;
-    height: 500px;
+    max-height: 750px;
     max-width: 75%;
     object-fit: contain;
     width: auto;
