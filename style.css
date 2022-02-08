@@ -1,5 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
 }
 
 .image-bank {
@@ -34,7 +35,7 @@ a {
 img {
     cursor: pointer;
     max-height: 750px;
-    max-width: 75%;
+    max-width: 55%;
     object-fit: contain;
     width: auto;
 }
